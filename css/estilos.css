@@ -12,3 +12,7 @@ body
     border: 1px solid #ddd;
     margin: 0 auto;
 }
+
+#container h1{
+    font-size: 20xp;
+}
