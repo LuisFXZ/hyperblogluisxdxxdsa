@@ -36,3 +36,9 @@ body
 #container h1{
     font-size: 20xp;
 }
+
+#footer
+{
+    background: #777;
+    color: white;
+}
